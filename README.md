@@ -1,9 +1,4 @@
 
-<a id="readme-top"></a>
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 
 
 
@@ -38,10 +33,19 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<a id="readme-top"></a>
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 # Aegis: AI-Powered Fraud Detection in E-Commerce
+
+
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1c4W_yDNGOT0_6b4E1Dc7aBAgTM0bbboh" height="300"/>
+  <img src="https://drive.google.com/uc?export=view&id=1c4W_yDNGOT0_6b4E1Dc7aBAgTM0bbboh" height="300"/>  
 </p>
+
+📑 **PPT Link**: [View Presentation](https://drive.google.com/file/d/1fHahF9eDZb2ocBnXUvuVagrfvewhPXmD/view?usp=sharing)
 
 Aegis is an AI-driven backend system built to detect and prevent fraudulent behavior in online marketplaces. It is designed to integrate seamlessly into existing e-commerce platforms, flagging potentially malicious users, transactions, and product listings in real-time using smart anomaly detection techniques and behavior-based scoring models.
 This project simulates real-world fraud use-cases in online marketplaces and provides a robust API-based backend to mitigate them before they cause harm — making marketplaces safer and more trustworthy.
@@ -154,7 +158,7 @@ Don't forget to give the project a star! Thanks again!
 ## Contact
 
 Aaryaditya Singh Panwar- [@aaryadityasinghpanwar](https://instagram.com/aaryadityasinghpanwar)
-Project Link: [https://github.com/your_username/repo_name](https://github.com/AaryadityaSP/Amazon-HackOn-Aegis)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/AaryadityaSP/Amazon-HackOn-Aegis) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
