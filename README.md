@@ -156,9 +156,9 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- CONTACT -->
 ## Contact
-
+Abhishek Jha- [@abhishekjha](https://www.linkedin.com/in/abhishek-jha-b8660a285/)
 Aaryaditya Singh Panwar- [@aaryadityasinghpanwar](https://www.linkedin.com/in/aaryaditya-singh-panwar-b13bba252)
-Project Link: [https://github.com/your_username/repo_name](https://github.com/AaryadityaSP/Amazon-HackOn-Aegis) 
+Project Link: [https://github.com/Abhishekjha41/amazon-hackon-app](https://github.com/Abhishekjha41/amazon-hackon-app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
